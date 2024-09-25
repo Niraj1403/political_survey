@@ -1,8 +1,8 @@
-import React from 'react'
+
 
 const name2 = () => {
   return (
-    <div>name2</div>
+    <div>Name2</div>
   )
 }
 
